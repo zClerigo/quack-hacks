@@ -1,7 +1,7 @@
 # quack-hacks
 quack-hacks project
 
-TO RUN BACKEND:
+TO RUN THE BACKEND:
 1. cd backend
 2. python app.py
 
