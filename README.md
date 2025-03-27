@@ -7,4 +7,4 @@ TO RUN BACKEND:
 
 TO RUN FRONTEND:
 1. cd frontend/frontend
-2. npm start
+2. npm run dev
