@@ -6,5 +6,5 @@ TO RUN BACKEND:
 2. python app.py
 
 TO RUN FRONTEND:
-1. cd frontend
+1. cd frontend/frontend
 2. npm start
